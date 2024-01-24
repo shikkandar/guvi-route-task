@@ -14,7 +14,7 @@ const NavigationMenu = () => {
           <Navbar.Brand style={{ fontSize: '1.5rem',color:"green" }} as={Link} to="/">Guvi</Navbar.Brand>
           <Nav className="me-auto">
             {navMenu.map((data, index) => (
-              <Nav.Link key={index} as={Link} to={navLink[index]} className='link' style={{ fontSize: '1.2rem',color:"black" }}>
+              <Nav.Link key={index} as={Link} to={navLink[index]} className='link' style={{ fontSize: '1.2rem' }}>
                 {data}
               </Nav.Link>
             ))}

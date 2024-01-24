@@ -60,7 +60,7 @@ export const Data=createContext({
           },
           {
             "_id": "8",
-            "src": "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-1200x628.png", 
+            "src": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Full-Stack-Developer-vs-Software-Engineer-.webp", 
             "title": "Top 10 Tools Every Full-Stack Developer Should Master in 2024",
             "description": "As a full-stack developer, having the right set of tools is crucial for your success. Discover the top 10 tools that every full-stack developer should master in 2024.",
             "date": "5 August 2023",
@@ -68,7 +68,7 @@ export const Data=createContext({
           },
           {
             "_id": "9",
-            "src": "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-1200x628.png", 
+            "src": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Full-Stack-Developer-vs-Software-Engineer-.webp", 
             "title": "The Ultimate Guide to Real-World Full-Stack Development Applications",
             "description": "Full-stack development has become increasingly popular in recent years, with companies seeking professionals who can create real-world applications. Explore the ultimate guide to mastering real-world full-stack development applications.",
             "date": "5 August 2023",
@@ -118,7 +118,7 @@ export const Data=createContext({
       },
       {
         "_id": "15",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-1200x628.png", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp", 
         "title": "Top 10 Data Science Tools in 2024",
         "description": "Data Science is an in-demand profession and will continue growing in the coming years. Explore the top 10 data science tools that professionals should leverage in 2024 for effective data analysis.",
         "date": "1 November 2023",
@@ -168,7 +168,7 @@ export const Data=createContext({
       },
       {
         "_id": "21",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp", 
         "title": "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
         "description": "Look around today, and you will witness that we are more reliant on technology and devices than ever. Delve into the world of cybersecurity, exploring its importance, uses, and the growing challenges in 2023.",
         "date": "20 December 2022",
@@ -176,7 +176,7 @@ export const Data=createContext({
       },
       {
         "_id": "22",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-1024x536.png", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp", 
         "title": "8 Different Types of Cybersecurity and Threats Involved",
         "description": "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from various threats. Explore 8 different types of cybersecurity and the threats involved in this comprehensive guide.",
         "date": "9 November 2022",
@@ -202,7 +202,7 @@ export const Data=createContext({
       },
       {
         "_id": "25",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp", 
         "title": "UI/UX Designer Job Description and Roles & Responsibilities",
         "description": "UI UX is the abbreviated word that’s been rocking the trend over the years, especially in the design industry. Explore the job description and roles & responsibilities of a UI/UX designer in this informative guide.",
         "date": "13 December 2023",

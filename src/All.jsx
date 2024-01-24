@@ -19,7 +19,7 @@ export const All = () => {
           </Card.Body>
         </Card>
       ))}
-      {Career.map((data, i) => (
+      {carrer.map((data, i) => (
         <Card key={i} style={{ width: '22rem' }} className='m-3'>
           <Card.Img variant="top" src={data.src} />
           <Card.Body>
