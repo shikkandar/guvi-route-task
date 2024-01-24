@@ -9,12 +9,12 @@ const navLink = ["/", "/fullStack", "/dataScienec", "/cyberSecurity", "/career"]
 const NavigationMenu = () => {
   return (
     <div>
-      <Navbar bg="light" data-bs-theme="light">
+      <Navbar bg="light" data-bs-theme="light" >
         <Container>
-          <Navbar.Brand as={Link} to="/">Navbar</Navbar.Brand>
+          <Navbar.Brand style={{ fontSize: '1.5rem',color:"green" }} as={Link} to="/">Guvi</Navbar.Brand>
           <Nav className="me-auto">
             {navMenu.map((data, index) => (
-              <Nav.Link key={index} as={Link} to={navLink[index]}>
+              <Nav.Link key={index} as={Link} to={navLink[index]} className='link' style={{ fontSize: '1.2rem',color:"black" }}>
                 {data}
               </Nav.Link>
             ))}

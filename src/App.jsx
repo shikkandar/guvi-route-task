@@ -6,7 +6,7 @@ import FullStack from './FullStack'
 import DataScience from './DataScience'
 import CyberSecurity from './CyberSecurity'
 import Career from './Career'
-
+import "../App.css"
 function App() {
  
 
