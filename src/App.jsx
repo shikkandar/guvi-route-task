@@ -6,12 +6,9 @@ import FullStack from './FullStack'
 import DataScience from './DataScience'
 import CyberSecurity from './CyberSecurity'
 import Career from './Career'
-import "../App.css"
+
 function App() {
- 
-
   return (
-
       <Router>
         <NavigationMenu/>
         <Routes>
@@ -22,11 +19,6 @@ function App() {
           <Route path='/career' element={<Career/>}/>
         </Routes>
       </Router>
-
-    
-   
-    
-    
   )
 }
 

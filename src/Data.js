@@ -160,7 +160,7 @@ export const Data=createContext({
       },
       {
         "_id": "20",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp", 
         "title": "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
         "description": "Cybersecurity & Ethical hacking have been key in ensuring the security of your online data. Explore the top 10 differences between cybersecurity and ethical hacking in this insightful comparison.",
         "date": "27 December 2022",
@@ -168,7 +168,7 @@ export const Data=createContext({
       },
       {
         "_id": "21",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png", 
         "title": "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
         "description": "Look around today, and you will witness that we are more reliant on technology and devices than ever. Delve into the world of cybersecurity, exploring its importance, uses, and the growing challenges in 2023.",
         "date": "20 December 2022",
@@ -176,7 +176,7 @@ export const Data=createContext({
       },
       {
         "_id": "22",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-1024x536.png", 
         "title": "8 Different Types of Cybersecurity and Threats Involved",
         "description": "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from various threats. Explore 8 different types of cybersecurity and the threats involved in this comprehensive guide.",
         "date": "9 November 2022",
@@ -184,7 +184,7 @@ export const Data=createContext({
       },
       {
         "_id": "23",
-        "src": "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif", 
+        "src": "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners-1200x571.webp", 
         "title": "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
         "description": "Many people ask how important coding is for cybersecurity. Delve into this question, exploring the role of coding in cybersecurity and understanding its crucial significance.",
         "date": "22 June 2022",
